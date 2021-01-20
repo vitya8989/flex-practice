@@ -81,11 +81,10 @@ main {
 
 .hello-friend {
   background: #445162;
-  color: #ffffff;
-  min-height: 323px; }
+  color: #ffffff; }
 
 .container {
-  max-width: 3113px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 20px; }
 
@@ -105,7 +104,6 @@ main {
       justify-content: center; } }
 
 .hello-friend__item {
-  max-width: 1689px;
   margin: 42px 0 0 0; }
   .hello-friend__item .hello-friend__title {
     margin: 0 0 0 -6px;
@@ -175,9 +173,6 @@ main {
     .whatis__image {
       margin: 5px 0 0 0; } }
 
-.whatis__item {
-  max-width: 1769px; }
-
 .whatis__item__title {
   color: #445161;
   font-size: calc(26px + 4 * ((100vw - 320px) / 960));
@@ -204,8 +199,7 @@ main {
         margin: 0 0 10px 0; } }
 
 .columns {
-  background: #f5f5f5;
-  min-height: 1283px; }
+  background: #f5f5f5;}
 
 .columns__title {
   color: #445161;
@@ -308,11 +302,9 @@ main {
   background: #ffffff; }
 
 .container__vertical {
-  max-width: 2613px;
-  margin: 0 auto; }
-  @media (max-width: 767px) {
-    .container__vertical {
-      padding: 0 20px; } }
+  max-width: 1000px;
+  margin: 0 auto; 
+  padding: 0 20px;}
 
 .vertical__title {
   color: #606b79;
