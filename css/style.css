@@ -148,8 +148,7 @@ main {
       margin: 0; } }
 
 .whatis {
-  background: #ffffff;
-  min-height: 765px; }
+  background: #ffffff; }
 
 .whatis__row {
   display: -webkit-box;
